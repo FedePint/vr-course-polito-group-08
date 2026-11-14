@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: d0e7b914a9893924fb38bcd5c0c6b1aa
+ModelImporter:
+  serializedVersion: 24300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_ami_01_0
+    second: {fileID: 2800000, guid: 0aee30d2ebeab8343abed31c1eb1dfad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_hana_01_1000
+    second: {fileID: 2800000, guid: 19779f1ee31f11d43b297346f4292252, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_hana_02_6400
+    second: {fileID: 2800000, guid: 6d1e5996815d83d48bccae1911d3cfd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_hata_01_6C00
+    second: {fileID: 2800000, guid: 5f545317cd530af42b9c471fb3bbd87d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_isi_01_11400
+    second: {fileID: 2800000, guid: 95f27403e78f6e64fa417d68c4337401, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_01_11E80
+    second: {fileID: 2800000, guid: e12f1711f7237704d8b05bdd42f24b31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_02_13380
+    second: {fileID: 2800000, guid: 386458fb2be593f44b7c344055210131, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_03_1DB80
+    second: {fileID: 2800000, guid: 08601a6330b484148aa289857b0400c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_04_28380
+    second: {fileID: 2800000, guid: 3d4a30bc583abb940b4ec142b6d0122e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_05_32B80
+    second: {fileID: 2800000, guid: 7fbe0181b9476d24eab2fabc02c7fdc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_06_35580
+    second: {fileID: 2800000, guid: 9c4b51b996b82fa40b7482196948a6ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_07_35980
+    second: {fileID: 2800000, guid: 3d060b53ee577c14ea91abf93d6dcdb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_kabe_08_36E80
+    second: {fileID: 2800000, guid: 7bb29cd82753be14f9fe0b98ffcf692f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_ki_01_41680
+    second: {fileID: 2800000, guid: ab9cef3359ab23246a859eb2b37ab230, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_siro_01_45680
+    second: {fileID: 2800000, guid: 17664bc1c7381544abab75f421bb8e6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_siro_02_48080
+    second: {fileID: 2800000, guid: 053b81505d2693546a0d700f7e7da865, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_tuti_01_4AA80
+    second: {fileID: 2800000, guid: 9e909c22de249b844ac622ec927a889e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_water_01_4B500
+    second: {fileID: 2800000, guid: 6d379dfd47165b64b847b70ada59103d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_wnd_01_4BF80
+    second: {fileID: 2800000, guid: 81ee934209bc18a4592228e8393c915d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_wnd_02_51380
+    second: {fileID: 2800000, guid: d384e186fb72d0a44b8e389ec7755da5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_wnd_03_51E00
+    second: {fileID: 2800000, guid: b362902502709a64cba9758afc030822, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_yane_01_52300
+    second: {fileID: 2800000, guid: 012e2d0c34080b14bb80dbe64a3045ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_yuka_01_52D00
+    second: {fileID: 2800000, guid: 8521c3f2cc4534342bfb723d3715ccd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_yuka_02_55700
+    second: {fileID: 2800000, guid: 8698d7dca12f0404c9cee0c45ac6e767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: naka_yuka_04_56C00
+    second: {fileID: 2800000, guid: 419164a4187ad474990a7c591a3d4f36, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
