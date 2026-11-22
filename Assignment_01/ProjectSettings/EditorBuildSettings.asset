@@ -9,6 +9,7 @@ EditorBuildSettings:
     path: Assets/Zelda.unity
     guid: 6bef5ba1d791d6644a5dfb5412e1b8fa
   m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 048e51e97b77e9049a8297153e2b7108, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4fab7c55b10fbed4e80c6ea2ddbe523c, type: 2}
   m_UseUCBPForAssetBundles: 0
