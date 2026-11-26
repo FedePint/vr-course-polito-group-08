@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0378a7031749888438b213faa8c7eeb0
+guid: aa00cc84bbab0f34281d9a5bff21a9d6
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
@@ -73,7 +73,7 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ColorPalette_64
-    second: {fileID: 2800000, guid: 0aff5a2e9cf252e43abd82df1de06414, type: 3}
+    second: {fileID: 2800000, guid: d9c1ed77a1d465b44899ef2edf2659e6, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -117,7 +117,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
