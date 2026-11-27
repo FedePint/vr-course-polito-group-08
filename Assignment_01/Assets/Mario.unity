@@ -23,7 +23,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 0
+  m_AmbientIntensity: 2.63
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
@@ -146,6 +146,63 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!1001 &15172185
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.254
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000006221027
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.696
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorWood
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
 --- !u!1 &60486099
 GameObject:
   m_ObjectHideFlags: 0
@@ -1542,6 +1599,63 @@ Transform:
   - {fileID: 1464018197}
   m_Father: {fileID: 1581808704}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &520293020
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.896
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.1399984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.304
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
 --- !u!1001 &532733460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1690,6 +1804,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1400701010}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &592094831
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000008108474
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.74
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
 --- !u!1 &601757781
 GameObject:
   m_ObjectHideFlags: 0
@@ -1945,6 +2116,63 @@ Transform:
   - {fileID: 617443468}
   m_Father: {fileID: 1670369535}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &769671059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.69
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000016624635
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22.02
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
 --- !u!1 &772864428
 GameObject:
   m_ObjectHideFlags: 0
@@ -2233,6 +2461,63 @@ Transform:
   - {fileID: 543220903}
   m_Father: {fileID: 712236495}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &863293340
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.0100039
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -51.699993
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorWood (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
 --- !u!1001 &905942393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2437,6 +2722,63 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 9465257}
   m_SourcePrefab: {fileID: 100100000, guid: f0e09c85dbb87784da416d9a8b529454, type: 3}
+--- !u!1001 &1040856700
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.1199985
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.09
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorSliding
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
 --- !u!1 &1096929659
 GameObject:
   m_ObjectHideFlags: 0
@@ -2885,6 +3227,120 @@ Transform:
   m_Children: []
   m_Father: {fileID: 848826787}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1245935690
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.69
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.1199985
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.74
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorLocked (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+--- !u!1001 &1271680802
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 31.22
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0499992
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
 --- !u!1 &1313001652
 GameObject:
   m_ObjectHideFlags: 0
@@ -2978,6 +3434,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1951086582}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1362574119
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000008108474
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.74
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
 --- !u!1 &1367340218
 GameObject:
   m_ObjectHideFlags: 0
@@ -4261,6 +4774,63 @@ Transform:
   - {fileID: 1098280786}
   m_Father: {fileID: 288831538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1655798284
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 25.98
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.1199985
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 135
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorSliding (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fbb60e2f2143fce4799310481d2bbf6e, type: 3}
 --- !u!1 &1670369534
 GameObject:
   m_ObjectHideFlags: 0
@@ -4324,6 +4894,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 765998973}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1727258528
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.77
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.739999
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.220001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorLocked (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
 --- !u!1 &1750267980
 GameObject:
   m_ObjectHideFlags: 0
@@ -4483,6 +5110,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 617443468}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1837173748
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.75
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0499997
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
 --- !u!1 &1921730100
 GameObject:
   m_ObjectHideFlags: 0
@@ -4518,6 +5202,63 @@ Transform:
   - {fileID: 312323975}
   m_Father: {fileID: 765189228}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1945036398
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.69
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.739999
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.220001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorLocked (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
 --- !u!1 &1951086581
 GameObject:
   m_ObjectHideFlags: 0
@@ -4752,6 +5493,177 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aee97d5ed8289b4448ca507df8655a1a, type: 3}
+--- !u!1001 &2022788148
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.294
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000006221027
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.784
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorWood (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 595ce4a640f966e4ba4d69ca16d81d31, type: 3}
+--- !u!1001 &2086231187
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.77
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000016624635
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22.02
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorStar (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b22918cf87bda354e9bd582efed453e3, type: 3}
+--- !u!1001 &2093484117
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.77
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.1199985
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.74
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
+      propertyPath: m_Name
+      value: PeachCastle1F_DoorLocked
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363dd4444f6041b4c9a6a4be450f9ce2, type: 3}
 --- !u!1 &2101212291
 GameObject:
   m_ObjectHideFlags: 0
@@ -4920,3 +5832,19 @@ SceneRoots:
   - {fileID: 334964544}
   - {fileID: 410891177}
   - {fileID: 69132627}
+  - {fileID: 1271680802}
+  - {fileID: 592094831}
+  - {fileID: 520293020}
+  - {fileID: 1837173748}
+  - {fileID: 1362574119}
+  - {fileID: 15172185}
+  - {fileID: 2022788148}
+  - {fileID: 2093484117}
+  - {fileID: 1245935690}
+  - {fileID: 1727258528}
+  - {fileID: 1945036398}
+  - {fileID: 2086231187}
+  - {fileID: 769671059}
+  - {fileID: 863293340}
+  - {fileID: 1040856700}
+  - {fileID: 1655798284}

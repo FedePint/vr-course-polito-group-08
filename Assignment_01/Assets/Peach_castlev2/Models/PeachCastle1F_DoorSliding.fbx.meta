@@ -3,7 +3,37 @@ guid: fbb60e2f2143fce4799310481d2bbf6e
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat0.003
+    second: {fileID: 2100000, guid: 1f4957848408c0e40879c446ed8b13af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat1.007
+    second: {fileID: 2100000, guid: e4607f88429d31d43acba0c85362b1da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat2.005
+    second: {fileID: 2100000, guid: 479b99c6e2ab83a4bbd2e3dc4ba59f3f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7003800
+    second: {fileID: 2800000, guid: bf475a4896d2e3b41979f56d12d002fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7004800
+    second: {fileID: 2800000, guid: ac7d618a375b5d14ab0e32d429a4cb23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7005800
+    second: {fileID: 2800000, guid: 973ba36782825fb4e9c932784da5d282, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

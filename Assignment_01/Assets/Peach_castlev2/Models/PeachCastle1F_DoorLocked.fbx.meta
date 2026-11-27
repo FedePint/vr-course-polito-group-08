@@ -3,7 +3,47 @@ guid: 363dd4444f6041b4c9a6a4be450f9ce2
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat0.004
+    second: {fileID: 2100000, guid: dd847578efc65c041a13344d14fcda8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat1.008
+    second: {fileID: 2100000, guid: d84cd524b263331429df56111c8252a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat3.002
+    second: {fileID: 2100000, guid: ec8ed5a7edffe6e4eb369bf35f96f792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertexColors.002
+    second: {fileID: 2100000, guid: 59913334f3e09bb48a428a6837be1e11, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_3009D10
+    second: {fileID: 2800000, guid: a98618371c7232a469dedef213295b01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_300AD10
+    second: {fileID: 2800000, guid: 8b419f79d8b1d7843810e4081ea47607, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_3013510
+    second: {fileID: 2800000, guid: 5e75b1aabbccd46458a128983d0299bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vertexColors_door
+    second: {fileID: 2800000, guid: eda492eb8f2d1a449b9699db99092567, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
