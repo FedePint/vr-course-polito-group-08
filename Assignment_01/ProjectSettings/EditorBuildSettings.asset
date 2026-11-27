@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Office.unity
+    guid: 9aaef9ce1d6332f4db342ad7191b683c
+  - enabled: 1
+    path: Assets/Mario.unity
+    guid: 7e85478970f2ead459af4d7a21eca27c
+  - enabled: 1
+    path: Assets/Minecraft.unity
+    guid: a3fee42e596715549bbb966baa9f23f6
+  - enabled: 1
     path: Assets/Zelda.unity
     guid: 6bef5ba1d791d6644a5dfb5412e1b8fa
   m_configObjects:
