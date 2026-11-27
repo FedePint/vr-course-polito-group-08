@@ -3,7 +3,227 @@ guid: 40ede622a03db6b4fbbeeaa4e9e1fde7
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat0
+    second: {fileID: 2100000, guid: 066828cb55a651e4d874b94c14a710af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat1
+    second: {fileID: 2100000, guid: 29a8511b8bc58244b930d049250f61c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat10
+    second: {fileID: 2100000, guid: 45ec890bafe8c4242afb7c45a01395b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat11
+    second: {fileID: 2100000, guid: 58fd657b6d4b1954b858274a43e20654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat12
+    second: {fileID: 2100000, guid: 85308e46b15fef84783cbc5358f91b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat13
+    second: {fileID: 2100000, guid: 54d86e2f039977c47ab39028e95a81db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat14
+    second: {fileID: 2100000, guid: 3b6c971b14bb4784da648b9d9b367a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat15
+    second: {fileID: 2100000, guid: 96b31d4334382174d816415df47155a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat16
+    second: {fileID: 2100000, guid: ef119e391a13fe843be55983e006b9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat17
+    second: {fileID: 2100000, guid: 174d270fa5922b845a4a1acb63baa405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat18
+    second: {fileID: 2100000, guid: 361b9bd7fa7356345b53af81dd77167a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat19
+    second: {fileID: 2100000, guid: 6a6c5d8b4710d2b4aa60f1820cbb9e3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat2
+    second: {fileID: 2100000, guid: 0920b3ed3ab250d44ad5709a0bd08982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat20
+    second: {fileID: 2100000, guid: a3e56d499ae0cc84dbbdcdd8981b1625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat21
+    second: {fileID: 2100000, guid: c8ac4d7e897c19e458b57b07798b8d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat3
+    second: {fileID: 2100000, guid: eadc8147bed20e94ba43e00cdf4004c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat4
+    second: {fileID: 2100000, guid: 39013133d1a73eb45861d87870dbbbc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat5
+    second: {fileID: 2100000, guid: 202cb77c35322de4fa8970eb63213c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat6
+    second: {fileID: 2100000, guid: f7ce6db089192de468130d4f96352f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat7
+    second: {fileID: 2100000, guid: 849bf5feb654e6d46b6211ee426a9603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat8
+    second: {fileID: 2100000, guid: 6d62af0ee9584bf44b20466299191f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat9
+    second: {fileID: 2100000, guid: 4423575eba047bf42b16c54fb60e5e98, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_0
+    second: {fileID: 2800000, guid: 8a567356d94ba504d889f869a166609c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7000000
+    second: {fileID: 2800000, guid: d9eb948f2a07bb8429f44fbb16769ae3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7000800
+    second: {fileID: 2800000, guid: 0d657a2dc65f56144af92d379b15517b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7002000
+    second: {fileID: 2800000, guid: 80e2da940d29f2747986c0846426bd66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7003000
+    second: {fileID: 2800000, guid: ca1745a6e1f63ca479978688ec1e9364, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7006000
+    second: {fileID: 2800000, guid: 109fd7e72f8d88c44a56fb07adb3f1a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7006800
+    second: {fileID: 2800000, guid: f8c6112c51546d14b8a3412933dcb0a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7007000
+    second: {fileID: 2800000, guid: dbf90ddabbed580468483ddf4ff70ac3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_7007800
+    second: {fileID: 2800000, guid: 8ba8ba35c7170154fbc7fd43b2567296, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_700C800
+    second: {fileID: 2800000, guid: 624cc7128f51916449ecbea7292fb0ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_700D800
+    second: {fileID: 2800000, guid: 1ee1b8a140a3db94397cf23aab30011f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9000000
+    second: {fileID: 2800000, guid: 9bbc7c625bc978a439c305dc7c730381, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9001000
+    second: {fileID: 2800000, guid: 3a44c91c002755542b0f667efc9eb62b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9003000
+    second: {fileID: 2800000, guid: 91cbe9030a2087142ae28c92341b2fe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9003800
+    second: {fileID: 2800000, guid: 4052966272ba8da4b9c6c54769dd2efc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9004000
+    second: {fileID: 2800000, guid: 115281ec17e45e54eb87d2ef8c38e474, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9005000
+    second: {fileID: 2800000, guid: 9ac48938a37f492478dadcac76abe7c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9007000
+    second: {fileID: 2800000, guid: d73679af8d4838f41abc888ebe7fd3a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9008000
+    second: {fileID: 2800000, guid: fb96071717a04df4a92103913789e034, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_9008800
+    second: {fileID: 2800000, guid: 187529160aa6ffc4f92ac351c011674e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_900A000
+    second: {fileID: 2800000, guid: 5c87d2ab90dd2c64d8060dfa654f7118, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_900B000
+    second: {fileID: 2800000, guid: d8d6893e00299054c9bc46051726cd09, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -36,7 +256,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importPhysicalCameras: 1
@@ -47,7 +267,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
